@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @missied
-- 👀 I’m interested in software development and data analytical
-- 🌱 I’m currently learning information technology in Umcced
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-missied/missied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Hidayah.
+- 👀 I’m interested in software development and data analytical.
+- 🌱 I’m currently learning information technology in Umcced. And still in progress learning python at Udemy.
+- 📫 How to reach me? You can find me in the linked but i'm a silent reader. 
+- ⚡ Fun fact: i am electrical engineer.
